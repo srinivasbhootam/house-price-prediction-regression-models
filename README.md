@@ -60,7 +60,7 @@ Three models were implemented and tested:
 | Ridge Regression             | 2,681.37 | 885,889,993.86 | 29,763.90 |
 | Polynomial Regression (D2)   | 2,235.81 | 3,918,571,158.96 | 62,598.49 |
 
-> **Conclusion**: WWhile Polynomial Regression (Degree 2) achieved the lowest Mean Absolute Error (MAE), it also resulted in a significantly higher Root Mean Squared Error (RMSE) and Mean Squared Error (MSE). This indicates that although the model made some accurate predictions, it also produced large errors on certain data points — a classic sign of overfitting.
+> **Conclusion**: While Polynomial Regression (Degree 2) achieved the lowest Mean Absolute Error (MAE), it also resulted in a significantly higher Root Mean Squared Error (RMSE) and Mean Squared Error (MSE). This indicates that although the model made some accurate predictions, it also produced large errors on certain data points — a classic sign of overfitting.
 
 In contrast, Ridge Regression demonstrated a more balanced performance across all evaluation metrics. Its incorporation of L2 regularization helped control model complexity, reduced overfitting, and delivered consistent predictions across the dataset.
 
