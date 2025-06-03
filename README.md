@@ -79,13 +79,13 @@ In contrast, Ridge Regression demonstrated a more balanced performance across al
 
 ## 📄 Lab Report
 
-The complete report is available in [report/house_price_lab_report.md](report/house_price_lab_report.md). It includes:
+The complete report is available in House Price Prediction using Regression Models File. It includes:
 
 - Abstract & Objective
 - Literature Review
 - Methodology
 - Model Evaluation & Discussion
-- APA-style references
+- References
 
 ---
 
