@@ -107,7 +107,7 @@ This project was developed as part of a machine learning lab assignment to gain 
 ## 📬 Contact
 
 For collaboration:  
-📧 srinivas.bhootam  
+📧 srinivas.bhootam@gmail.com
 🔗 https://www.linkedin.com/in/bhootam-srinivas/
 
 ---
